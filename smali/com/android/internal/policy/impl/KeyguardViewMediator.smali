@@ -2484,8 +2484,6 @@
     .line 1113
     :sswitch_data_0
     .sparse-switch
-        0x18 -> :sswitch_0
-        0x19 -> :sswitch_0
         0x1b -> :sswitch_3
         0x4f -> :sswitch_1
         0x55 -> :sswitch_1

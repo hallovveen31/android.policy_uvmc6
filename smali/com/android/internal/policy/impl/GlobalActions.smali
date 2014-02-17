@@ -1084,7 +1084,7 @@
     iput-object v1, v0, Lcom/android/internal/policy/impl/GlobalActions;->mPowerOff:Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
 
     .line 389
-    new-instance v1, Lcom/android/internal/policy/impl/GlobalActions$5;
+    new-instance v1, Lcom/android/internal/policy/impl/GlobalActions$99;
 
     const v2, 0x10808ad
 
@@ -1092,7 +1092,7 @@
 
     move-object/from16 v0, p0
 
-    invoke-direct {v1, v0, v2, v3}, Lcom/android/internal/policy/impl/GlobalActions$5;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
+    invoke-direct {v1, v0, v2, v3}, Lcom/android/internal/policy/impl/GlobalActions$99;-><init>(Lcom/android/internal/policy/impl/GlobalActions;II)V
 
     move-object/from16 v0, p0
 
